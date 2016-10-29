@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guffy</string>
+    <string name="title_activity_acceso">Acceso</string>
+    <string name="usr"> Usuario o E-mail </string>
+    <string name="pss"> Password </string>
+    <string name="action_settings">Settings</string>
+</resources>
